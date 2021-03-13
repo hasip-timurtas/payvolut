@@ -26,7 +26,7 @@
       </div>
     </div>
     <p class="pt-10">
-      For customer usages you can check how the user can add deposit via
+      For customer usages you can check how the user can add deposit via <br />
       <v-btn to="/bank-transfer" plain
         ><v-icon class="mr-2">mdi-bank-transfer</v-icon> Bank Transfer
       </v-btn>
