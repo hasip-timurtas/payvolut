@@ -12,7 +12,7 @@
       methods for your bussines with 5 years experience. <br />
     </p>
     <p class="panel text-xl">Here are the screenshots of our panel</p>
-    <div class="container">
+    <div class="container mx-auto">
       <div class="medias">
         <div>
           <img @click="openImg" src="img/py2.png" />
@@ -27,15 +27,15 @@
     </div>
     <p class="pt-10">
       For customer usages you can check how the user can add deposit via
-      <v-btn to="/bank-transfer" plain flat
+      <v-btn to="/bank-transfer" plain
         ><v-icon class="mr-2">mdi-bank-transfer</v-icon> Bank Transfer
       </v-btn>
       or
-      <v-btn to="/papara-transfer" plain flat
+      <v-btn to="/papara-transfer" plain
         ><v-icon class="mr-2">mdi-alpha-p-circle</v-icon>Papara Transfer
       </v-btn>
       or
-      <v-btn to="/btc-transfer" plain flat
+      <v-btn to="/btc-transfer" plain
         ><v-icon class="mr-2">mdi-currency-btc</v-icon>BTC Transfer
       </v-btn>
     </p>
