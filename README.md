@@ -1,6 +1,6 @@
-# LDR - GUIDE
+# Payvolut FE part
 
-Website source codes of https://ldrguidebook.com
+Website source codes of https://payvolut.com
 
 ## Project setup
 
